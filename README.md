@@ -3,7 +3,7 @@ This is a server-client model for File transferring over sockets.
 It is made using C++ and sockets in C++ (Lib: sys/socket.h, netdb.h and netinet).
 
 This porgram is made for my 2nd year OS porject evaluation and is free to use.
-> # THERE ATE TWO MODELS FOR THE PROJECT:
+> # THERE ARE TWO MODELS FOR THE PROJECT:
 > ## 1.SINGLE CLIENT HANDLING MODEL: 
 >   In this model, the server can handle only one model at a time. If a second client sends the connection request, it would get rejected by the server side. The server side and the client side are one-on-one designed.
 >   
